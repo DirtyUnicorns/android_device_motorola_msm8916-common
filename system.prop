@@ -144,4 +144,4 @@ ro.sys.fw.bservice_age=5000
 ro.opa.eligible_device=true
 
 # Temp disable of MusicFX (bt issues)
-ro.musicfx.disabled=true
+# ro.musicfx.disabled=true
