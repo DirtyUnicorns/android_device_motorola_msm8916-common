@@ -1,0 +1,4 @@
+allow rfs_access self:capability {
+    net_raw
+    write
+};
