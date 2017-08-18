@@ -1,4 +1,1 @@
-allow rfs_access self:capability {
-    net_raw
-    write
-};
+allow rfs_access self:capability {net_raw};
